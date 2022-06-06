@@ -1,0 +1,4 @@
+#NoshScript
+
+estos archivos son los que le ayudan a NoshScript a saber que contienen las
+librerias y para poder cargarlas
