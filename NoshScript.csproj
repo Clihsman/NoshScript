@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{D0EDFD93-77DA-47EF-82C2-3D6411389D9E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>NoshScript</RootNamespace>
+    <AssemblyName>NoshScript</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\MiliDatos\Visual Studio 2015\Projects\CyberControlToMainProject\CyberControlToMainProject\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\..\MonoDevelop\bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Nosh\Collections\Funtion.cs" />
+    <Compile Include="Nosh\Collections\NoshPackage\Package.cs" />
+    <Compile Include="Nosh\Collections\NoshPackage\PackageList.cs" />
+    <Compile Include="Nosh\Collections\NoshPackage\PackageManager.cs" />
+    <Compile Include="Nosh\Native\Bucles\BucleOption.cs" />
+    <Compile Include="Nosh\Native\Condicionales\Try.cs" />
+    <Compile Include="Nosh\Native\Types\NoshType.cs" />
+    <Compile Include="Nosh\Native\Types\NoshTypeCode.cs" />
+    <Compile Include="Nosh\NoshException.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Nosh\Method.cs" />
+    <Compile Include="Nosh\Pattern.cs" />
+    <Compile Include="Nosh\Var.cs" />
+    <Compile Include="Nosh\Develop\Utils.cs" />
+    <Compile Include="Nosh\Script.cs" />
+    <Compile Include="Nosh\Develop\VirtualMachine.cs" />
+    <Compile Include="Nosh\Native\Condicionales\If.cs" />
+    <Compile Include="Nosh\Native\Condicionales\Switch.cs" />
+    <Compile Include="Nosh\Native\Bucles\DoWhile.cs" />
+    <Compile Include="Nosh\Native\Bucles\For.cs" />
+    <Compile Include="Nosh\Native\Bucles\Foreach.cs" />
+    <Compile Include="Nosh\Native\Bucles\While.cs" />
+    <Compile Include="Nosh\Native\Functions\Function.cs" />
+    <Compile Include="Nosh\Native\Objects\Class.cs" />
+    <Compile Include="Nosh\Native\Objects\Struct.cs" />
+    <Compile Include="Nosh\Native\Types\String.cs" />
+    <Compile Include="Nosh\Native\Types\Char.cs" />
+    <Compile Include="Nosh\Native\Types\Interfaces\INumObject.cs" />
+    <Compile Include="Nosh\Native\Types\Numbers\Byte.cs" />
+    <Compile Include="Nosh\Native\Types\Numbers\Double.cs" />
+    <Compile Include="Nosh\Native\Types\Numbers\Long.cs" />
+    <Compile Include="Nosh\Native\Types\Numbers\Short.cs" />
+    <Compile Include="Nosh\Native\Types\Numbers\Float.cs" />
+    <Compile Include="Nosh\Native\Types\Numbers\Int.cs" />
+    <Compile Include="Nosh\Native\Types\Object\Target.cs" />
+    <Compile Include="Nosh\Native\Types\Object\Object.cs" />
+    <Compile Include="Nosh\Native\Clases\NoshMath.cs" />
+    <Compile Include="Nosh\Native\Types\Arrays\NoshArray.cs" />
+    <Compile Include="Nosh\Native\Types\NoshScript.cs" />
+    <Compile Include="Nosh\Native\Types\Bool.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+</Project>
