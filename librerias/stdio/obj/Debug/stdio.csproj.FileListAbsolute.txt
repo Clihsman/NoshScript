@@ -1,0 +1,10 @@
+c:\users\clihsman\documents\visual studio 2015\Projects\stdio\stdio\bin\Debug\stdio.dll
+c:\users\clihsman\documents\visual studio 2015\Projects\stdio\stdio\bin\Debug\stdio.pdb
+c:\users\clihsman\documents\visual studio 2015\Projects\stdio\stdio\obj\Debug\stdio.csprojResolveAssemblyReference.cache
+c:\users\clihsman\documents\visual studio 2015\Projects\stdio\stdio\obj\Debug\stdio.dll
+c:\users\clihsman\documents\visual studio 2015\Projects\stdio\stdio\obj\Debug\stdio.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\stdio\bin\Debug\stdio.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\stdio\bin\Debug\stdio.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\stdio\obj\Debug\stdio.csprojResolveAssemblyReference.cache
+C:\Users\Clihsman\Documents\Projects\noshLibs\stdio\obj\Debug\stdio.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\stdio\obj\Debug\stdio.pdb
