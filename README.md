@@ -6,4 +6,4 @@ aplicación también permite cargar script internos librerías en c#
 Agradezco todo el apoyo que me deseen dar con mi proyecto esta un poco desordenado
 pero se que con su ayuda podrá ser una herramienta muy útil
 
-y sin mas que decir una gran abraso a toda la comunidad de desarrolladores de Githad
+y sin mas que decir una gran abraso a toda la comunidad de desarrolladores de Githud
