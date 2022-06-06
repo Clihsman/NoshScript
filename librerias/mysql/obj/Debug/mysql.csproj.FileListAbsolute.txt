@@ -1,0 +1,6 @@
+C:\Users\Clihsman\Documents\Projects\noshLibs\mysql\obj\Debug\mysql.csprojResolveAssemblyReference.cache
+C:\Users\Clihsman\Documents\Projects\noshLibs\mysql\bin\Debug\mysql.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\mysql\bin\Debug\mysql.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\mysql\bin\Debug\MySql.Data.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\mysql\obj\Debug\mysql.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\mysql\obj\Debug\mysql.pdb

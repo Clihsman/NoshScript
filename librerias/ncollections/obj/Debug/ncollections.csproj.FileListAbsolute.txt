@@ -1,0 +1,5 @@
+C:\Users\Clihsman\Documents\Projects\noshLibs\ncollections\bin\Debug\ncollections.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\ncollections\bin\Debug\ncollections.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\ncollections\obj\Debug\ncollections.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\ncollections\obj\Debug\ncollections.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\ncollections\obj\Debug\ncollections.csprojResolveAssemblyReference.cache

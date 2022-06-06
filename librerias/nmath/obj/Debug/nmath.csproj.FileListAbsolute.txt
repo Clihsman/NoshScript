@@ -1,0 +1,5 @@
+C:\Users\Clihsman\Documents\Projects\noshLibs\nmath\bin\Debug\nmath.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\nmath\bin\Debug\nmath.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\nmath\obj\Debug\nmath.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\nmath\obj\Debug\nmath.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\nmath\obj\Debug\nmath.csprojResolveAssemblyReference.cache

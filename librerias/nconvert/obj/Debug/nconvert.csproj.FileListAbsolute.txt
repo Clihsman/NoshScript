@@ -1,0 +1,4 @@
+C:\Users\Clihsman\Documents\Projects\noshLibs\nconvert\bin\Debug\nconvert.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\nconvert\bin\Debug\nconvert.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\nconvert\obj\Debug\nconvert.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\nconvert\obj\Debug\nconvert.pdb

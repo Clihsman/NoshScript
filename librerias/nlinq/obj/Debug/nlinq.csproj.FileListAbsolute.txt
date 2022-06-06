@@ -1,0 +1,5 @@
+C:\Users\Clihsman\Documents\Projects\noshLibs\nlinq\bin\Debug\nlinq.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\nlinq\bin\Debug\nlinq.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\nlinq\obj\Debug\nlinq.csprojResolveAssemblyReference.cache
+C:\Users\Clihsman\Documents\Projects\noshLibs\nlinq\obj\Debug\nlinq.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\nlinq\obj\Debug\nlinq.pdb

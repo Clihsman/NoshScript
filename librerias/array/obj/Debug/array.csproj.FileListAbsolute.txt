@@ -1,0 +1,10 @@
+c:\Users\Clihsman\documents\visual studio 2015\Projects\stdio\array\bin\Debug\array.dll
+c:\Users\Clihsman\documents\visual studio 2015\Projects\stdio\array\bin\Debug\array.pdb
+c:\Users\Clihsman\documents\visual studio 2015\Projects\stdio\array\obj\Debug\array.dll
+c:\Users\Clihsman\documents\visual studio 2015\Projects\stdio\array\obj\Debug\array.pdb
+c:\Users\Clihsman\documents\visual studio 2015\Projects\stdio\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+C:\Users\Clihsman\Documents\Projects\noshLibs\array\bin\Debug\array.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\array\bin\Debug\array.pdb
+C:\Users\Clihsman\Documents\Projects\noshLibs\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+C:\Users\Clihsman\Documents\Projects\noshLibs\array\obj\Debug\array.dll
+C:\Users\Clihsman\Documents\Projects\noshLibs\array\obj\Debug\array.pdb
