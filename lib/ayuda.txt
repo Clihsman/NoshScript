@@ -2,3 +2,5 @@
 
 estos archivos son los que le ayudan a NoshScript a saber que contienen las
 librerias y para poder cargarlas
+
+la carpeta Libs y npkgs van en la carpeta del ejecutable de NoshScript
