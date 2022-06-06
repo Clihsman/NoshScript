@@ -1,0 +1,10 @@
+package nstring
+
+link:var string
+ set(value);get();contains(value);indexOf(value);sum(value)
+ startsWith(value);endsWith(value);length();split(separator)
+ remove(startIndex);remove(startIndex,count);replace(oldChar,newChar)
+pass
+
+link:method string()
+link:method string(value)

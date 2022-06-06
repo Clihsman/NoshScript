@@ -1,0 +1,20 @@
+package nwin
+
+link:method window()
+
+link:var msgBox
+  OK; OKCancel; AbortRetryIgnore; YesNoCancel; YesNo; RetryCancel
+  None; Hand; Question; Exclamation; Asterisk; Stop; Error; Warning; Information
+  show(text, caption, buttons, icon)
+pass
+
+link:var window
+ Manual; CenterScreen; WindowsDefaultLocation; WindowsDefaultBounds; CenterParent
+ show(); setStartPosition(startPosition); addButton(text, width, height, x, y, click)
+ addTextBox(text, width, height, x, y, textChange); addLabel(text, width, height, x, y, click);
+ width;height;x;y;title
+pass
+
+link:var dialogResult
+ None; OK; Cancel; Abort; Retry; Ignore; Yes; No
+pass

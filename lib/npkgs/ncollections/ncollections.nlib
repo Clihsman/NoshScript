@@ -1,0 +1,9 @@
+package ncollections
+
+link:var list
+ set(value,index);add(value);remove(value);get(index);contains(value)
+ indexOf(value);count();toArray()
+pass
+
+link:method list()
+link:method list(capacity)

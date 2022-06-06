@@ -1,0 +1,6 @@
+package array
+
+link:method array(length)
+link:method array(array,value,index)
+link:method array(array,index)
+link:method length(array)

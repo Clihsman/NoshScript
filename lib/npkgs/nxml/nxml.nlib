@@ -1,0 +1,15 @@
+package nxml
+
+link:method xml()
+
+link:var xml
+ getField(name);loadFile(filename);getName()
+pass
+
+link:var xmlField
+ getField(name);getName();getValue();getFields();getAttribute(name);getAttributes()
+pass
+
+link:var xmlAttribute
+ getName();getValue()
+pass

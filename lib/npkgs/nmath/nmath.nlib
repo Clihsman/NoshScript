@@ -1,0 +1,8 @@
+package nmath
+
+link:var Math
+ abs(value);acos(d);asin(d);atan(d);atan2(x,y);bigMul(a,b);ceiling(d);cos(d);cosh(d);exp(d)
+ floor(d);ieeeRemainder(x,y);log(d);log10(d);max(val1,val2);min(val1,val2);pow(x,y);round(d)
+ sign(value);sin(a);sinh(value);sqrt(d);tan(a);tanh(value);truncate(d);E;PI
+ sum(val1,val2);res(val1,val2);mult(val1,val2);div(val1,val2);mod(val1,val2)
+pass

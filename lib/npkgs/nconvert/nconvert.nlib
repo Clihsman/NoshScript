@@ -1,0 +1,5 @@
+package nconvert
+
+link:var Convert
+ parseFloat(value);parseInt(value);parseString(value)
+pass

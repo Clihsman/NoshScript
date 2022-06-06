@@ -1,0 +1,13 @@
+package stdio
+
+link:method print(msg,arg)
+link:method print(msg,arg0,arg1)
+link:method print(msg,arg0,arg1,arg2)
+link:method print(msg,arg0,arg1,arg2,arg3)
+link:method print(msg,arg0,arg1,arg2,arg3,arg4)
+
+link:method read()
+link:method pause()
+
+link:method exit()
+link:method exit(exitCode)
