@@ -1,0 +1,69 @@
+# comentario
+
+!#
+  comentario
+!#
+
+# importar una librería
+include <librería>
+
+# importar una script
+include <"script">
+
+# crear una variable
+var:string nombre = "NoshScript"
+
+# crear un método
+go MiMetodo():
+pass
+
+# crear un método con argumentos
+go MiMetodo(var1,var2):
+pass
+
+# crear un método con retorno de dato
+go ObtenerNombre():
+  return "NoshScript"
+pass
+
+# crear un tipo de platilla de dato
+var Usuario:
+ var:string nombre
+ var:edad
+ 
+ go Usuario(nombre,edad)
+   this.nombre = nombre
+   this.edad = edad
+ pass
+pass
+
+# bucle for
+for(var:int i = 0;i < 10; i++):
+pass
+
+# bucle while
+while(true)
+pass
+
+# bucle foreach
+foreach(variable in arreglo):
+pass
+
+# condicional
+if(true):
+pass
+else():
+pass
+
+# arreglos
+include <array>
+var:array datos = array(10)
+
+# imprimir en pantalla. la librería se carga en el inicio del programa
+include <stdio>
+print("Hola Mundo")
+
+# leer dato de la consola
+include <stdio>
+print("Dame Un dato")
+read()
